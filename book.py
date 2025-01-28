@@ -1,7 +1,7 @@
 from flask import Flask, request, jsonify
 
 app = Flask(__name__)
-# test
+test = 'homework'
 
 # Sample data (in-memory database for simplicity)
 books = [
